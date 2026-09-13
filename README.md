@@ -36,12 +36,9 @@ Depois da análise, fui para o AWS Management Console trabalhar diretamente na i
 
 Comecei localizando a instância EC2 utilizada pelo sistema da escola e analisando sua configuração.
 
-<p align="center">
-  <img src="aws-simulearn-02-analise-ec2-tamanho.png" alt="Análise EC2" width="600"/>
-</p>
-
-
-
+<div align="center">
+  <img src="./aws-simulearn-02-analise-ec2-ta.jpg" width="600" alt="Análise EC2">
+</div>
 
 
 
