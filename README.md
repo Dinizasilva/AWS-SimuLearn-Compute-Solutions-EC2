@@ -30,10 +30,8 @@ Em alguns momentos, também contei com o Dr. Newton, o agente de apoio do labora
 
 ## Isso me fez perceber uma coisa importante:
 
-não adianta decorar o nome dos serviços AWS se eu não souber identificar qual problema preciso resolver.
-
+Não adianta decorar o nome dos serviços AWS se eu não souber identificar qual problema preciso resolver.
 Depois da análise, fui para o AWS Management Console trabalhar diretamente na infraestrutura.
-
 Comecei localizando a instância EC2 utilizada pelo sistema da escola e analisando sua configuração.
 
 
