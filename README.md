@@ -40,3 +40,26 @@ Comecei localizando a instância EC2 utilizada pelo sistema da escola e analisan
 </div>
 
 
+## 1. Entendendo o gerenciamento da instância
+
+Durante o laboratório, encontrei uma configuração de proteção relacionada ao ciclo de vida da instância: disableApiStop
+
+Precisei entender por que determinada operação não estava sendo permitida e o que aquela proteção significava.
+Foi uma parte importante do laboratório porque mostrou, na prática, que uma configuração de segurança pode impedir uma ação administrativa — e que antes de simplesmente tentar “forçar” uma alteração, precisamos entender o motivo da proteção.
+
+## 2. Redimensionando a EC2
+
+Depois veio uma das partes principais do desafio: adequar os recursos da instância às necessidades da aplicação.
+Analisei os tipos de instância disponíveis e trabalhei com o conceito de right sizing, buscando uma configuração mais adequada para o workload.
+No cenário do laboratório, a instância foi redimensionada para o perfil m4.large.
+Aqui ficou muito claro para mim que escolher uma instância não significa simplesmente escolher “a maior”.
+
+É preciso relacionar:
+
+Carga de trabalho → processamento → memória → desempenho → custo.
+
+
+<div align="center">
+  <img src="./etapa3.png" width="600" alt="Obstáculo e Desabilitação de API Stop">
+</div>
+
