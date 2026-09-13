@@ -67,7 +67,6 @@ Carga de trabalho → processamento → memória → desempenho → custo.
   <img src="./etapa4.png" width="600" alt="Redimensionamento da Instância EC2">
 </div>
 
-
 ## 3. Conectividade e segurança
 
 Também precisei verificar a parte de conectividade da instância.
