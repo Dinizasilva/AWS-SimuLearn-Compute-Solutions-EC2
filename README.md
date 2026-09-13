@@ -8,7 +8,6 @@ Neste laboratório, eu precisei resolver um problema de infraestrutura de uma es
   <img src="./aws-simulearn-01-problema-escola.jpg" width="600" alt="Problema da Escola">
 </div>
 
-
 Este laboratório foi um dos que mais gostei de fazer na trilha do AWS Skill Builder, porque não foi simplesmente seguir um passo a passo.
 
 Eu recebi um problema para resolver.
