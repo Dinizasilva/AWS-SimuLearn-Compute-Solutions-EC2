@@ -42,7 +42,7 @@ Comecei localizando a instância EC2 utilizada pelo sistema da escola e analisan
 
 ## 1. Entendendo o gerenciamento da instância
 
-Durante o laboratório, encontrei uma configuração de proteção relacionada ao ciclo de vida da instância: disableApiStop
+Durante o laboratório, encontrei uma configuração de proteção relacionada ao ciclo de vida da instância: **disableApiStop**
 
 Precisei entender por que determinada operação não estava sendo permitida e o que aquela proteção significava.
 Foi uma parte importante do laboratório porque mostrou, na prática, que uma configuração de segurança pode impedir uma ação administrativa — e que antes de simplesmente tentar “forçar” uma alteração, precisamos entender o motivo da proteção.
