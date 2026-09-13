@@ -84,5 +84,44 @@ Essa etapa me ajudou a entender melhor como compute, rede e segurança estão co
 Outra parte da validação foi verificar os volumes de armazenamento associados à instância.
 Nesse momento, trabalhei com Amazon EBS, entendendo a relação entre o armazenamento persistente e a instância EC2.
 
+## O que eu aprendi com esse laboratório
+
+O maior aprendizado não foi simplesmente aprender a alterar o tipo de uma EC2.
+Foi entender o processo de resolução de um problema de infraestrutura.
+
+Eu precisei:
+Entender o problema → analisar os requisitos → avaliar as opções → identificar as limitações → fazer as alterações → validar o resultado.
+Também percebi que existe uma diferença grande entre estudar um serviço e realmente utilizá-lo para resolver um problema.
+
+## Na Trilha Skill Builder, em prática na EC2.
+
+No laboratório, precisei descobrir o que fazer com aquela EC2 diante de um problema realista.
+
+## AWS Services & Concepts
+
+Amazon EC2
+EC2 Instance Types
+Right Sizing
+Scaling
+Amazon VPC
+Security Groups
+SSH
+Amazon EBS
+EC2 lifecycle protection
+
+<div align="center">
+  <img src="./etapa5.png" width="600" alt="Validação Final do Laboratório">
+</div>
+
+
+## Minha conclusão
+
+Esse laboratório foi importante para mim porque juntou duas coisas que considero fundamentais na minha transição para Cloud:
+
+Entender a necessidade do cliente e conseguir colocar a solução em prática.
+Foi mais um exercício de sair da teoria e começar a pensar como alguém que precisa analisar, decidir, implementar e validar uma solução na nuvem.
+
+Mais um laboratório concluído na minha jornada para Cloud Engineer.
+
 
 
