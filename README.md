@@ -47,6 +47,11 @@ Durante o laboratório, encontrei uma configuração de proteção relacionada a
 Precisei entender por que determinada operação não estava sendo permitida e o que aquela proteção significava.
 Foi uma parte importante do laboratório porque mostrou, na prática, que uma configuração de segurança pode impedir uma ação administrativa — e que antes de simplesmente tentar “forçar” uma alteração, precisamos entender o motivo da proteção.
 
+<div align="center">
+  <img src="./etapa3.png" width="600" alt="Obstáculo e Desabilitação de API Stop">
+</div>
+
+
 ## 2. Redimensionando a EC2
 
 Depois veio uma das partes principais do desafio: adequar os recursos da instância às necessidades da aplicação.
@@ -58,8 +63,27 @@ Aqui ficou muito claro para mim que escolher uma instância não significa simpl
 
 Carga de trabalho → processamento → memória → desempenho → custo.
 
-
 <div align="center">
-  <img src="./etapa3.png" width="600" alt="Obstáculo e Desabilitação de API Stop">
+  <img src="./etapa4.png" width="600" alt="Redimensionamento da Instância EC2">
 </div>
+
+
+## 3. Conectividade e segurança
+
+Também precisei verificar a parte de conectividade da instância.
+
+Trabalhei com conceitos de:
+
+Amazon VPC
+Security Groups
+SSH
+acesso administrativo à instância
+Essa etapa me ajudou a entender melhor como compute, rede e segurança estão conectados dentro da AWS.
+
+## 4. Amazon EBS
+
+Outra parte da validação foi verificar os volumes de armazenamento associados à instância.
+Nesse momento, trabalhei com Amazon EBS, entendendo a relação entre o armazenamento persistente e a instância EC2.
+
+
 
