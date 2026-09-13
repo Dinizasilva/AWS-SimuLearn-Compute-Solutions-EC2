@@ -5,4 +5,4 @@ Neste laboratório, eu precisei resolver um problema de infraestrutura de uma es
 
 <p align="center">
   <img src="images/aws-simulearn-01-problema-escola.jpg" width="600" alt="O Desafio da Escola">
-</p>
+</p> 
