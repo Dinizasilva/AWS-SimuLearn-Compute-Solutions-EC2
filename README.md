@@ -64,7 +64,7 @@ Aqui ficou muito claro para mim que escolher uma instância não significa simpl
 Carga de trabalho → processamento → memória → desempenho → custo.
 
 <div align="center">
-  <img src="./etapa4.png" width="600" alt="Redimensionamento da Instância EC2">
+  <img src="./etapa4.jpg" width="600" alt="Redimensionamento da Instância EC2">
 </div>
 
 ## 3. Conectividade e segurança
