@@ -30,6 +30,12 @@ Foi aí que comecei a analisar os diferentes tipos e famílias de instâncias EC
 Uma das coisas interessantes do SimuLearn é que ele não entrega tudo pronto. Eu precisava tomar decisões e entender o motivo de cada uma delas.
 Em alguns momentos, também contei com o Dr. Newton, o agente de apoio do laboratório, para me ajudar a raciocinar sobre o problema e validar o caminho que eu estava seguindo.
 
+<div align="center">
+  <img src="./aws-simulearn-02-analise-ec2-tamanho.png" width="600" alt="Análise EC2">
+</div>
+
+
+
 Isso me fez perceber uma coisa importante:
 
 não adianta decorar o nome dos serviços AWS se eu não souber identificar qual problema preciso resolver.
@@ -39,9 +45,7 @@ Depois da análise, fui para o AWS Management Console trabalhar diretamente na i
 Comecei localizando a instância EC2 utilizada pelo sistema da escola e analisando sua configuração.
 
 
-<div align="center">
-  <img src="./aws-simulearn-02-analise-ec2-tamanho.jpg" width="600" alt="Análise do tamanho do EC2">
-</div>
+
 
 
 
